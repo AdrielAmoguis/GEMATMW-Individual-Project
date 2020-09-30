@@ -1,7 +1,7 @@
 # GEMATMW Individual Project [Adi's Multipurpose Encryption Project]
 Github repository for my GEMATMW individual projects. There may be some interesting things here that people may be interested in. Feel free to clone or submit pull requests!
 Please submit only sensible pull requests. Don't submit irrelevant requests.
-Thank You
+Thank You.
 
 
 Contents:
